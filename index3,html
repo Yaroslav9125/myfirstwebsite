@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Моя обучающая страница</title>
+    </head>
+    <body>
+        <header id="head">
+            <h1></h1>
+
+        </header>
+        <main>
+            <section id="about">
+                <article>
+                    <h2>Кто я?</h2>
+                    <p>Это небольшая информация обо мне </p>
+                </article>     
+                <article>
+                    <p>Меня зовут Ярослав,я начинающий веб-разработчик</p>
+                </article>
+                <article>
+                    <p>ниже-немного о том что я изучаю</p>
+                </article>
+                <hr>
+            </section>
+            <section id="skills">
+                <article>
+                    <h2>Мои навыки</h2>
+                </article>
+                <article>
+                    <p>Я изучаю основы,но я уже умею:</p>
+                    <ol>
+                        <li>Писать простые html-страницы </li>
+                        <li>Добавлять простые картинки и ссылки</li>
+                        <li>Создавать списки и разделы</li>
+                        <li>Оформлять текст с помощью те</li>
+                    </ol>
+                </article>
+            </section>
+            <section id="projects">
+            </section>
+            <section id="articles">
+            </section>
+            <section id="contacts">
+            </section>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
